@@ -2,6 +2,7 @@
     display: flex;
     flex-direction: column;
     width: 50%;
+    margin-top: 5%;
 }
 
 #container .row {
